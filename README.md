@@ -48,6 +48,14 @@ Using Excel tools like Pivot Tables, slicers, and charts, I created a dashboard 
 
 ---
 
+## Key Insights
+
+- Sales are stronger on weekends  
+- Beginning of the month shows lower performance  
+- Product bundles can increase revenue  
+
+---
+
 ## Files
 
 - Dashboard-Sales.xlsx  
